@@ -5,14 +5,14 @@
 * Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
 * Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.*
 
-In computer jargon, what’s the difference between a statement and a comment?
+1) In computer jargon, what’s the difference between a statement and a comment?
 A statement is a line of code that runs an operation, and a comment is regular english that explains how the code works.
 
-What does it mean to say that a program is portable?
+2) What does it mean to say that a program is portable?
 It means that the program can be run on different types of computers with little modifications.
 
-In common English, what does the word compile mean?
+3) In common English, what does the word compile mean?
 The word compile means to combine multiple things into one.
 
-What is an executable? Why is that word used as a noun?
+4) What is an executable? Why is that word used as a noun?
 An executable is the code that gets translated from the source code, and is executed repeatedly without translation.  
