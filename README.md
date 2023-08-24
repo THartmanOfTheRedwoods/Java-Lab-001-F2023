@@ -1,6 +1,7 @@
-# Java-Lab-001
+1. A Statement denotes one action the program takes, a comment is non-actionable and meant to be read by people.
 
-* The source code file you will edit is in the src folder and contains a Java class file named HelloXwing.java
-* Modify the HelloXwing.java file to print out to the **console** the xwing() method.
-* Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
-* Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.
+2. It can be used on multiple systems.
+
+3. To collect many disparate parts, usually with the purpose of categorizing.
+
+4. An executable is code that can run on a specific software. It is used as a noun because the word is used to denote the specific code, itself being a noun.
