@@ -30,5 +30,6 @@ public class HelloXwing {
     public static void main(String[] args) {
         //Reads everything from class HelloXwing then prints what is in .xwing
     System.out.println(HelloXwing.xwing());
+
     }
 }
