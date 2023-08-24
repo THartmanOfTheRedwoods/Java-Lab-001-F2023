@@ -5,6 +5,8 @@
 * Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
 * Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.*
 
+English Vs. Computer Science (Fight!)
+
 1) In computer jargon, what’s the difference between a statement and a comment?
 A statement is a line of code that runs an operation, and a comment is regular english that explains how the code works.
 
