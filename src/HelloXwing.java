@@ -28,5 +28,7 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
+        // Reads everything from HelloXwing then prints what's in .xwing
+    System.out.println(HelloXwing.xwing());
     }
 }
