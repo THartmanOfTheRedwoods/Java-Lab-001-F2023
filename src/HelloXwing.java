@@ -39,6 +39,5 @@ public class HelloXwing {
     public static void main(String[] args) {
         HelloXwing.xwing();
         System.out.println(HelloXwing.xwing());
-
     }
 }
