@@ -1,10 +1,5 @@
 public class HelloXwing {
-    /**
-     * Returns a String containing a X-Wing ASCII-Art
-     *
-     * @return Ascii-Art String of an X-Wing
-     */
-    static String xwing() {
+        static String xwing() {
         return """
                            __
                 .-.__      \\ .-.  ___  __
@@ -28,6 +23,15 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
-        //change#1
+            String pewpew = xwing();
+            int pewpewpew;
+            int pewpewpewpew = pewpew.length();
+            char[] pewpewarray = new char[pewpewpewpew];
+            for (pewpewpew = 0; pewpewpew < pewpewpewpew; pewpewpew++) {
+                char pewpewpewpewpew = pewpew.charAt(pewpewpew);
+                pewpewarray[pewpewpew] = pewpewpewpewpew;
+            }
+            String FlagrantDisrespectOfTheConstantPool = new String(pewpewarray);
+            System.out.println(FlagrantDisrespectOfTheConstantPool);
     }
 }
