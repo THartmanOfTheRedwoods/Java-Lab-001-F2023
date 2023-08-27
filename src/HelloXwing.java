@@ -26,12 +26,12 @@ public class HelloXwing {
             String pewpew = xwing();
             int pewpewpew;
             int pewpewpewpew = pewpew.length();
-            char[] pewpewarray = new char[pewpewpewpew];
+            char[] pewpewpewpewpew = new char[pewpewpewpew];
             for (pewpewpew = 0; pewpewpew < pewpewpewpew; pewpewpew++) {
-                char pewpewpewpewpew = pewpew.charAt(pewpewpew);
-                pewpewarray[pewpewpew] = pewpewpewpewpew;
+                char pewpewpewpewpewpew = pewpew.charAt(pewpewpew);
+                pewpewpewpewpew[pewpewpew] = pewpewpewpewpewpew;
             }
-            String FlagrantDisrespectOfTheConstantPool = new String(pewpewarray);
+            String FlagrantDisrespectOfTheConstantPool = new String(pewpewpewpewpew);
             System.out.println(FlagrantDisrespectOfTheConstantPool);
     }
 }
