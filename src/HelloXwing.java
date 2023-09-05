@@ -6,7 +6,7 @@ public class HelloXwing {
      */
     static String xwing() {
         return """
-                           __
+                  Yoda         __
                 .-.__      \\ .-.  ___  __
                 |_|  '--.-.-(   \\/\\;;\\_\\.-._______.-.
                 (-)___     \\ \\ .-\\ \\;;\\(   \\       \\ \\
@@ -24,7 +24,7 @@ public class HelloXwing {
                                            \\_:.  \\
                                              \\ \\  \\
                                               \\ \\  \\
-                                               \\_\\_|""";
+                          Yoda                  \\_\\_|""";
     }
 
     public static void main(String[] args) {
