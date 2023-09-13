@@ -28,6 +28,8 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
-        // Comment
+        // Tatooine or bust!
+        HelloXwing.xwing();
+        System.out.println(HelloXwing.xwing());
     }
 }
