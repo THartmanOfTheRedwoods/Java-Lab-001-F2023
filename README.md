@@ -11,3 +11,4 @@
 3. To compile is to "bundle" and translate written code into an individual executable file which can then be run 
 4. An executable is a program which can be run on supported hardware
 
+### 9-13-23 Skyler Means
