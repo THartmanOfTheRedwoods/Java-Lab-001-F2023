@@ -1,6 +1,4 @@
-# Java-Lab-001
-
-* The source code file you will edit is in the src folder and contains a Java class file named HelloXwing.java
-* Modify the HelloXwing.java file to print out to the **console** the xwing() method.
-* Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
-* Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.
+1 - STATEMENTS ARE THE ACTUAL CODE VS COMMENTS ARE NOT INCLUDED INT HE CODE EVEN THOUGH THEY CAN BE TOGETHER.
+2 - EASILY MOVED FROM ONE COMPUTING EVIRONMENT TO ANOTHER IE LINUX -> WINDOWS
+3 - PRODUCE BY ASSEMBLIG
+4 - A FILE THAT CAN BE RAN DIRECTLY ON HARDWARE - BECAUSE IT IS A PERSON PLACE OR THING
