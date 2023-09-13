@@ -28,6 +28,6 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
-        // Comment
+        System.out.print(xwing()); // Print called string xwing
     }
 }
