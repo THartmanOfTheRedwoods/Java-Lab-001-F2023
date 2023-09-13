@@ -10,3 +10,4 @@
 2. A portable program is one that can be executed on multiple different systems or architectures
 3. To compile is to "bundle" and translate written code into an individual executable file which can then be run 
 4. An executable is a program which can be run on supported hardware
+
