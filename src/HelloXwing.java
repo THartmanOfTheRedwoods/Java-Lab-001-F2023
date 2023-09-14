@@ -1,7 +1,6 @@
 /**
  *
  * @author Trevor Hartman
- *
  * <replace @author with Sylvan Coleman></replace>
  *
  * @author Sylvan Coleman
