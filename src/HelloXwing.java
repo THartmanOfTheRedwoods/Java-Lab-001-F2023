@@ -1,4 +1,13 @@
+/**
+ * (author Joseph Verdin
+ *
+ * (since version 1.0
+ *
+ */
+
 public class HelloXwing {
+    private static System system;
+
     /**
      * Returns a String containing a X-Wing ASCII-Art
      *
@@ -28,6 +37,6 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
-        // Comment
+        System.out.println(HelloXwing.xwing());
     }
 }
